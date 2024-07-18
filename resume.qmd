@@ -3,23 +3,37 @@ layout: cv
 title: Zane Cox - CV
 ---
 # Zane Cox
-Physics Undergrad at Brigham Young University - Idaho. Emphasis in engineering, minor in mathematics.
+
 
 <div id="webaddress">
 <a href="zanebcox27@gmail.com">zanebcox27@gmail.com</a>
 </div>
 
 
-## Currently
-
-I am currently working on a research project optimizing a hydrokinetic turbine using computational fluid dynamics.
-
-
 ## Education
 
 `2021 - 2025`
 __Brigham Young University - Idaho__
+_Bachelor's of Science in Physics, Emphasis in Engineering, Minor in Mathematics_
 
+## Projects
+
+__Computational Fluid Dynamic model of a hydrokinetic turbine__
+_Analyzed and optimized the performance of a concentrator inlet geometry_
+_Compared between physical scale model and computationally modelled approaches_
+
+__Mass Air Flow Sensor__
+_Designed and built device to use electrical resistance to calculate quantity of air flowing through a channel_
+
+__Refrigeration System Electrical Circuit__
+_Designed and built electrical system for the control of a refrigerated environment_
+_Controlled using a micro-controller using c++_
+
+## Relevant Work Experience
+
+__Mathematics Tutor - Brigham Young University - Idaho__
+_Taught and encouraged peer students to improve in mathematics_
+_Spanned begginner algebra to enginering mathematics_
 
 
 <!-- ### Footer
